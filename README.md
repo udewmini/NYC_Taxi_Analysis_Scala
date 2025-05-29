@@ -1,4 +1,4 @@
-# NYC_Taxi_Analysis_Scala (Scala - Databricks)
+# New_York_City_Taxi_Analysis_Scala (Scala - Databricks)
 
 This project uses Apache Spark with Scala on Databricks to analyze NYC taxi data and determine the top pickup locations.
 
